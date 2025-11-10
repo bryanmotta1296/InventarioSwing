@@ -1,0 +1,1 @@
+television;15000.0;3;Marca Sonic
